@@ -1,0 +1,143 @@
+p {
+    background-color: rgb(227, 244, 247);
+    margin-right: 5%;
+}
+.picture {
+    style=width: 5%;
+    height: 5%;
+    margin-left: 5%;
+    padding-left: 5%;
+    margin-top: 1%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    padding-top: 1%;
+    padding-right: 5%;
+    padding-bottom: 1%;
+    width: 75%;
+    height: 75%;
+    boarder: 0px;
+}
+.picture_b {
+    margin-left: 15%;
+    padding-left: 15%;
+    margin-top: 1%;
+    margin-right: 20%;
+    margin-bottom: 1%;
+    padding-top: 1%;
+    padding-right: 20%;
+    padding-bottom: 1%;
+    width: 25%;
+    height: 25%;
+    boarder: 0px;
+}
+.story {
+    background-color: lightcyan;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    border-left-style: solid;
+    border-left-width: 5%;
+    border-top-width: 5%;
+    border-top-style: solid;
+    border-right-width: 5%;
+    border-right-style: solid;
+    border-bottom-width: 5%;
+    border-bottom-style: solid;
+}
+.header {
+    font-style: italic;
+    font-size: large;
+    background-color: lightcyan;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    border-left-style: solid;
+    border-left-width: 5%;
+    border-top-width: 5%;
+    border-top-style: solid;
+    border-right-width: 5%;
+    border-right-style: solid;
+    border-bottom-width: 5%;
+    border-bottom-style: solid;
+}
+.body {
+    background-color: rgb(224, 205, 255);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2%;
+    border-left-style: solid;
+    border-left-width: 5%;
+    border-top-width: 5%;
+    border-top-style: solid;
+    border-right-width: 5%;
+    border-right-style: solid;
+    border-bottom-width: 5%;
+    border-bottom-style: solid;
+}
+#favorite {
+    font-size: x-large;
+}
+#busch_stadium {
+    font-size: x-large;
+    margin-left: 39%;
+    margin-right: 39%;
+}
+#gus_pretzels {
+    font-size: x-large;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+#crown_candy {
+    font-size: x-large;
+    margin-left: 37%;
+    margin-right: 37%;
+}
+#tahiti_village {
+    font-size: x-large;
+    margin-left: 37%;
+    margin-right: 37%;
+}
+#new_york {
+    font-size: x-large;
+    margin-left: 37%;
+    margin-right: 37%;
+}
+#venetian {
+    font-size: x-large;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+footer {
+    font-size: 10px;
+    padding-bottom: 5%;
+}
+h1 {
+    font-weight: 1000;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+h2 {
+    font-weight: 500;
+}
+h4 {
+    font-weight: 500;
+    background-color: lightcyan;
+    style="padding-left: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+}
